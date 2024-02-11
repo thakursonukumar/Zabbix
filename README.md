@@ -1,3 +1,3 @@
 # Zabbix
 Zabbix Solutions Repository
-![Desktop](image.png)
+![Desktop](images/image.png)
