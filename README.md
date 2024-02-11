@@ -1,0 +1,2 @@
+# Zabbix
+Zabbix Solutions Repository
